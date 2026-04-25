@@ -31,10 +31,7 @@ A modular React application built using Vite that serves as the foundation for t
 While building this project, I learned how to move from static HTML/CSS to a component-driven mindset. I mastered the concept of "Props" to pass data from a parent component (App) to child components (PostCard), making the code much more efficient and dry.
 
 ## Challenges Faced
-I encountered a MIME type error when first running the dev server, which I solved by ensuring the correct script type was set in `index.html` and using the Vite dev server instead of Live Server. I also managed PowerShell execution policy issues by switching to Git Bash for a smoother development experience.
-
-## Screenshots
-*(Tip: Once you take your screenshot, you can upload it to the repo and add the link here!)*
+I encountered a MIME type error when first running the dev server, which I solved by ensuring the correct script type was set in `index.html` and using the Vite dev server instead of Live Server. I also managed PowerShell execution policy issues by switching to Git Bash for a smoother development experiences.
 
 ## Live Demo
-[View Live Demo](https://maisori-kitayama.github.io/iyf-s10-week-08-maune-tut/)
+[View Live Demo]Live Demo:(http://localhost:5173/)
